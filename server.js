@@ -9,7 +9,7 @@ app.use(express.json());
 app.use(express.urlencoded({extended : true}));
 
 app.get("/" , (request , response) => {
-  response.send("<center><h1>welcome to social media REST API</h1></center> <br> <h3>try out the mentioned routes using <strong>POSTMAN</strong> to the above URL </h3>")
+  response.send("<center><h1>welcome to social media REST API</h1> <br> <h3>try out the mentioned routes using <strong>POSTMAN</strong> to the above URL </h3></center>")
 })
 app.use("/api" , router);
 
