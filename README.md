@@ -3,7 +3,7 @@ It is a social media REST API with JWT authentication
 
 ## to see this REST API in action use POSTMAN tool and hit the URL : https://socio-api-oq0f.onrender.com/
 
-##in order to access the mentioned routes : the credentials you need:
+## in order to access the mentioned routes : the credentials you need:
 this should be in the body of the postman as JSON 
 {
   "username" : "ram",
