@@ -12,3 +12,4 @@ this should be in the body of the postman as JSON
 and hit the authenticate route -- you get the JWT_KEY and use it in your headers with Authorization : JWT_KEY
 
 after this we can access the routes mentioned.
+visit this doc link for info about endpoints : https://docs.google.com/document/d/1TpvXD9PDIQreq-m4nLA9jCRCVdtprPkHx-0NjIrrtqE/edit?usp=sharing
